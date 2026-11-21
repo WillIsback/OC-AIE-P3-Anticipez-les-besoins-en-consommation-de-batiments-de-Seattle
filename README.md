@@ -116,8 +116,8 @@ Sélection **automatique** d'un modèle par cible (meilleure MedAPE sur le jeu d
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/WillIsback/OC-Ai-Engineer-P3.git
-cd OC-Ai-Engineer-P3
+git clone https://github.com/WillIsback/OC-AIE-P3-Anticipez-les-besoins-en-consommation-de-batiments-de-Seattle.git
+cd OC-AIE-P3-Anticipez-les-besoins-en-consommation-de-batiments-de-Seattle
 
 # Environnement (Python 3.x)
 python -m venv .venv && source .venv/bin/activate
